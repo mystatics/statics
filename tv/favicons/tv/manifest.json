@@ -2,12 +2,12 @@
     "name": "TheTrendingTV",
     "icons": [
         {
-            "src": "/favicons/thetrendingtv/android-chrome-192x192.png",
+            "src": "https://raw.githubusercontent.com/mystatics/statics/ae726dad/tv/favicons/tv/android-chrome-192x192.png",
             "sizes": "192x192",
             "type": "image/png"
         },
         {
-            "src": "/favicons/thetrendingtv/android-chrome-512x512.png",
+            "src": "https://raw.githubusercontent.com/mystatics/statics/ae726dad/tv/favicons/tv/android-chrome-512x512.png",
             "sizes": "512x512",
             "type": "image/png"
         }

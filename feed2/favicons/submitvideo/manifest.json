@@ -2,12 +2,12 @@
     "name": "Video Facebook",
     "icons": [
         {
-            "src": "/favicons/videofacebook/android-chrome-192x192.png",
+            "src": "https://raw.githubusercontent.com/mystatics/statics/ae726dad/feed2/favicons/submitvideo/android-chrome-192x192.png",
             "sizes": "192x192",
             "type": "image/png"
         },
         {
-            "src": "/favicons/videofacebook/android-chrome-512x512.png",
+            "src": "https://raw.githubusercontent.com/mystatics/statics/ae726dad/feed2/favicons/submitvideo/android-chrome-512x512.png",
             "sizes": "512x512",
             "type": "image/png"
         }
